@@ -1,0 +1,1 @@
+[为什么阿里规定需要在事务注解 @Transactional 中指定 rollbackFor？](https://mp.weixin.qq.com/s/cdNPyXAeCwp0S-dBxJQ39g)

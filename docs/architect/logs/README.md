@@ -1,0 +1,1 @@
+[Log4j2最佳实践](https://www.jianshu.com/p/62c0ef1cc699)

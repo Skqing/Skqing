@@ -1,0 +1,41 @@
+### 极客时间etcd实战课(完结)
+
+```wiki
+/100069901-etcd实战课 [107.8M]
+      ├──1 开篇词 (1讲) [6.7M]
+      │    └──开篇词｜为什么你要学习etcd_[天下无鱼][shikey.com].html [6.7M]
+      ├──2 基础篇 (11讲) [42.3M]
+      │    ├──01 _ etcd的前世今生：为什么Kubernetes使用etcd？[天下无鱼][shikey.com].html [4M]
+      │    ├──02 _ 基础架构：etcd一个读请求是如何执行的？[天下无鱼][shikey.com].html [3.1M]
+      │    ├──03 _ 基础架构：etcd一个写请求是如何执行的？[天下无鱼][shikey.com].html [3.8M]
+      │    ├──04 _ Raft协议：etcd如何实现高可用、数据强一致的？[天下无鱼][shikey.com].html [4.8M]
+      │    ├──05 _ 鉴权：如何保护你的数据安全？[天下无鱼][shikey.com].html [3.4M]
+      │    ├──06 _ 租约：如何检测你的客户端存活？[天下无鱼][shikey.com].html [3.3M]
+      │    ├──07 _ MVCC：如何实现多版本并发控制？[天下无鱼][shikey.com].html [4.1M]
+      │    ├──08 _ Watch：如何高效获取数据变化通知？[天下无鱼][shikey.com].html [3.2M]
+      │    ├──09 _ 事务：如何安全地实现多key操作？[天下无鱼][shikey.com].html [3.5M]
+      │    ├──10 _ boltdb：如何持久化存储你的key-value数据？[天下无鱼][shikey.com].html [6.5M]
+      │    └──11 _ 压缩：如何回收旧版本数据？[天下无鱼][shikey.com].html [2.7M]
+      ├──3 实践篇 (13讲) [43.8M]
+      │    ├──12 _ 一致性：为什么基于Raft实现的etcd还会出现数据不一致？[天下无鱼][shikey.com].html [1.7M]
+      │    ├──13 _ db大小：为什么etcd社区建议db大小不超过8G？[天下无鱼][shikey.com].html [1.7M]
+      │    ├──14 _ 延时：为什么你的etcd请求会出现超时？[天下无鱼][shikey.com].html [3.4M]
+      │    ├──15 _ 内存：为什么你的etcd内存占用那么高？[天下无鱼][shikey.com].html [3.6M]
+      │    ├──16 _ 性能及稳定性（上）：如何优化及扩展etcd性能？[天下无鱼][shikey.com].html [5.9M]
+      │    ├──17 _ 性能及稳定性（下）：如何优化及扩展etcd性能_[天下无鱼][shikey.com].html [5M]
+      │    ├──18 _ 实战：如何基于Raft从0到1构建一个支持多存储引擎分布式KV服务？[天下无鱼][shikey.com].html [3.1M]
+      │    ├──19 _ Kubernetes基础应用：创建一个Pod背后etcd发生了什么？[天下无鱼][shikey.com].html [3.5M]
+      │    ├──20 _ Kubernetes高级应用：如何优化业务场景使etcd能支撑上万节点集群？[天下无鱼][shikey.com].html [2.5M]
+      │    ├──21 _ 分布式锁：为什么基于etcd实现分布式锁比Redis锁更安全？[天下无鱼][shikey.com].html [2.7M]
+      │    ├──22 _ 配置及服务发现：解析etcd在API Gateway开源项目中应用[天下无鱼][shikey.com].html [4.4M]
+      │    ├──23 _ 选型：etcd_ZooKeeper_Consul等我们该如何选择？[天下无鱼][shikey.com].html [2.7M]
+      │    └──24 _ 运维：如何构建高可靠的etcd集群运维体系？[天下无鱼][shikey.com].html [3.7M]
+      ├──4 特别放送 (1讲) [11M]
+      │    └──特别放送 _ 成员变更：为什么集群看起来正常，移除节点却会失败呢？[天下无鱼][shikey.com].html [11M]
+      ├──5 结课测试 (1讲) [1.3M]
+      │    └──结课测试题｜这些相关etcd知识你都掌握了吗？[天下无鱼][shikey.com].html [1.3M]
+      └──6 结束语 (1讲) [2.6M]
+            └──结束语 _ 搞懂etcd，掌握通往分布式存储系统之门的钥匙 (2021_3_29 下午2_52_41)[天下无鱼][shikey.com].html
+```
+
+链接: https://pan.baidu.com/s/1wUex0zAbQGjcCUzM9hQKgA 提取码: `d7m2`

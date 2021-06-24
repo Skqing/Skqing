@@ -1,0 +1,36 @@
+debug: true
+
+server:
+  port: 8080
+
+spring:
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    jedis:
+      pool:
+        max-active: 50
+        max-wait: -1s
+        max-idle: 50
+        min-idle: 1
+    timeout: 300ms
+    cache:
+      type: redis
+  session:
+    store-type: REDIS
+
+jetcache:
+  statIntervalMinutes: 30
+  areaInCacheName: false
+  #  local:
+  #    default:
+  #      type: linkedhashmap
+  #      keyConvertor: fastjson
+  #      limit: 100
+  remote:
+    default:
+      type: redis.lettuce
+      keyConvertor: fastjson
+      valueEncoder: java
+      valueDecoder: java
+      uri: redis://127.0.0.1:6379/
