@@ -13,4 +13,5 @@
 ### 架构
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
 
-
+### 方案
+[数据库跟缓存的双写一致性](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650160009&idx=3&sn=d5c6257204431fd92a69dd45229c0120&chksm=f36826a8c41fafbe69bfcad2e7e100c94dd03479918759bb2b35417ef43362eb227acec48a83&scene=132#wechat_redirect)
