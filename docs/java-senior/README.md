@@ -20,6 +20,8 @@
 * [不会用Java Future，我怀疑你泡茶没我快](https://mp.weixin.qq.com/s/upLpuE55dfV5PmDAqKnDHQ)
 * [搞定 CompletableFuture，并发异步编程和编写串行程序还有什么区别？](https://mp.weixin.qq.com/s/lPh-KHrle6ORKEnmrlXKfQ)
 * [“既生 ExecutorService, 何生 CompletionService？”](https://mp.weixin.qq.com/s/RXFj2J2IdYbCRSGZhW8Rrg)
+* [数据库连接池为什么要用 ThreadLocal 呢？](https://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247492604&idx=1&sn=05c1c360d5d0100c8bf50596568cea1a&chksm=ec3f7e9bdb48f78d10b8410686f2d0c2107357ceb20270c1606f291c95735b6e6e4ced95b8ba&scene=132#wechat_redirect)
+
 
 * [Java并发知识点汇总](https://blog.csdn.net/codingtu/article/details/78061028)
 
@@ -52,4 +54,4 @@
 
 #### 算法
 
-* [深入剖析共识性算法 Raft](https://my.oschina.net/vivotech/blog/5023558)
+* [深入剖析共识性算法 Raft](https://my.oschina.net/vivotech/blog/5023558) :star::star::star::star::star:
