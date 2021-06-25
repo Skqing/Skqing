@@ -8,8 +8,7 @@
 
 [《吊打面试官》系列- Redis](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)
 
-[Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :purple_heart::purple_heart::purple_heart::purple_heart::purple_heart:
-
+[Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :star::star::star::star::star:
 
 ### 架构
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
