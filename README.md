@@ -138,7 +138,7 @@
 
 #### 程序员的故事
 
-[程序猿生存指南](https://www.jianshu.com/u/2399ca214fbd)★★★★★
+[程序猿生存指南](https://www.jianshu.com/u/2399ca214fbd)
 
 
 
