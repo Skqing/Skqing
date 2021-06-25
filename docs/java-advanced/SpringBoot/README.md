@@ -52,3 +52,4 @@
 * [Spring Boot 切面AOP实现权限校验](https://mp.weixin.qq.com/s/WYiZ0-zWyh4LpIJwWg1_9g)
 * [在Spring Boot中实现通用Auth认证的几种方式](https://mp.weixin.qq.com/s/szrrmnXkg4aAb_C2svR36Q)
 * [让你的代码更加简练，springboot使用JSR303校验](https://mp.weixin.qq.com/s?__biz=MzUzMzQ2MDIyMA==&mid=2247483698&idx=1&sn=9a0e08dc13a828c1b3912247e2ebe07c&chksm=faa2e4a1cdd56db77f7c98bab54155dbec13db72552eb1450a712f886af26889a7ed7cddf426&scene=21#wechat_redirect)
+* [改造了以前写的数据脱敏插件，更好用了](https://mp.weixin.qq.com/s/C24CFwaqG9rhwVSMHiXhFA)
