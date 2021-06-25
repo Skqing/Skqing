@@ -22,3 +22,12 @@
 [居然有这么多种定时任务的实现方式](https://mp.weixin.qq.com/s/dqBiUWqzUkJq-rdVyzuAVg)
 
 [Exception经验之谈，万万没想到被很多团队采纳！](https://mp.weixin.qq.com/s/lb8Bii3__SPKV-DKi6n6dg)
+
+
+Java开发中DTO、VO、PO之间的转换看下面几篇文章就够了
+
+* [Spring BeanUtils 和 Apache BeanUtils 你用哪个？](https://mp.weixin.qq.com/s/2M8KqdIjnRr51DDowAHW_w)
+
+* [java开发中DTO、VO、PO之间的转换你应该这么操作](https://mp.weixin.qq.com/s?__biz=MzUzMzQ2MDIyMA==&mid=2247483702&idx=1&sn=c07fad3342bc804e282abfcd9fd065f5&chksm=faa2e4a5cdd56db3ae1b670eed9485ac384dad4370d99f6dc2c529423687d80e818d28acb4e1&scene=21#wechat_redirect)
+
+* [BeanUtils、BeanCopier、Dozer、Orika 哪个性能最强？](https://mp.weixin.qq.com/s/aCWkUiE1-h5mtDrqEiPKHQ) :star::star:
