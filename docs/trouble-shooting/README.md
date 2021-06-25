@@ -1,4 +1,8 @@
+[一次log4j2的慢日志问题排查](https://ayonel.github.io/2020/03/09/log4j2-slow/) :star::star::star::star::star:
+
 [RT 过长，排查思路](https://mp.weixin.qq.com/s/TnLl2OW9XJLSZihcpgP7VQ)
+
+
 
 [遇到Request header is too large，你们是如何解决的？](https://mp.weixin.qq.com/s/ip4NGwd6HcjZrLOvfxdIwg)
 
@@ -8,4 +12,14 @@
 
 [Redis 使用不当，好一顿教训](https://mp.weixin.qq.com/s/P3Hv2kF8kqpxEbEkekiTHQ)
 
+### 数据库相关
+
 [一条 update 语句引起的事故，这回让开发长长记性！！](https://mp.weixin.qq.com/s/65r-vxMDRiyMuC9YR9A2uQ)
+
+[一个hikari不规范配置引发的数据库连接失活问题探索](https://ayonel.github.io/2020/08/18/hikari-keeplive/) :star::star::star:
+
+
+
+[https://ayonel.github.io/2020/08/20/java-collections-nonstandard-usecase/](https://ayonel.github.io/2020/08/20/java-collections-nonstandard-usecase/) :star::star:
+
+[一次有趣的jar包冲突问题排查](https://ayonel.github.io/2020/08/16/servlet-api-conflicts/) :star::star:
