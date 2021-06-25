@@ -39,7 +39,7 @@
 * [Swagger3就是比2简单粗暴](https://mp.weixin.qq.com/s/jPP5w1LHUrlqOe-laBTLQA)
 
 ### 其他
-
+* [Spring中这些技巧真是太实用了](https://mp.weixin.qq.com/s/NTJXQnMd2JJKtOc8C0zVXg) :star::star::star::star::star:
 * [我踩过的Spring Boot统一返回体中的坑](https://mp.weixin.qq.com/s/f3di1WA0ywei89-NLwJTSA)
 * [Spring Validation最佳实践及其实现原理，参数校验没那么简单！](https://mp.weixin.qq.com/s/0K8nTooGuKotFXUhze6ekA)
 * [Spring Boot 优雅停止服务的几种方法](https://mp.weixin.qq.com/s/0Hc-S44IjoUREGVJQfa0KQ)
