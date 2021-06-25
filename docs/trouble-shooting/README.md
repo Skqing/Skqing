@@ -20,6 +20,6 @@
 
 
 
-[https://ayonel.github.io/2020/08/20/java-collections-nonstandard-usecase/](https://ayonel.github.io/2020/08/20/java-collections-nonstandard-usecase/) :star::star:
+[轮子有风险，想造要谨慎](https://ayonel.github.io/2020/08/20/java-collections-nonstandard-usecase/) :star::star:
 
 [一次有趣的jar包冲突问题排查](https://ayonel.github.io/2020/08/16/servlet-api-conflicts/) :star::star:
