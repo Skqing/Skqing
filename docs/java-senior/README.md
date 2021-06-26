@@ -22,7 +22,8 @@
 * [“既生 ExecutorService, 何生 CompletionService？”](https://mp.weixin.qq.com/s/RXFj2J2IdYbCRSGZhW8Rrg)
 * [数据库连接池为什么要用 ThreadLocal 呢？](https://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247492604&idx=1&sn=05c1c360d5d0100c8bf50596568cea1a&chksm=ec3f7e9bdb48f78d10b8410686f2d0c2107357ceb20270c1606f291c95735b6e6e4ced95b8ba&scene=132#wechat_redirect)
 * [ThreadLocal的实现原理](https://monkeysayhi.github.io/2016/11/27/%E6%BA%90%E7%A0%81%7CThreadLocal%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86/)
-* 
+* [Java模拟赛跑过程](https://monkeysayhi.github.io/2017/10/08/Java%E6%A8%A1%E6%8B%9F%E8%B5%9B%E8%B7%91%E8%BF%87%E7%A8%8B/)
+* [Java实现生产者-消费者模型](https://monkeysayhi.github.io/2017/10/08/Java%E5%AE%9E%E7%8E%B0%E7%94%9F%E4%BA%A7%E8%80%85-%E6%B6%88%E8%B4%B9%E8%80%85%E6%A8%A1%E5%9E%8B/)
     线程池
     * [线程池ThreadPoolExecutor总结](https://monkeysayhi.github.io/2018/11/08/%E7%BA%BF%E7%A8%8B%E6%B1%A0ThreadPoolExecutor%E6%80%BB%E7%BB%93/)
 
