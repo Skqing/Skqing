@@ -18,6 +18,8 @@
 
 [String常量池和String#intern()](https://monkeysayhi.github.io/2017/12/15/String%E5%B8%B8%E9%87%8F%E6%B1%A0%E5%92%8CString-intern/)
 
+#### 线程
+[详细分析 Java 中实现多线程的方法有几种?](https://mp.weixin.qq.com/s/W1XSOzSJ9ub6b7NsuJgnJA)
 
 [如何正确的创建和销毁Java对象](https://mp.weixin.qq.com/s/RdGig1oLaM2gT4l34DlSnA)
 
