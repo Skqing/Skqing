@@ -4,9 +4,13 @@
 
 [Redis管道](https://blog.piaoruiqing.com/blog/2019/06/25/redis%e7%ae%a1%e9%81%93/)
 
+[Redis 教程](https://www.runoob.com/redis/redis-tutorial.html) :star::star::star::star:
+
+[如果你项目中引入了Redis，那你不应该错过这篇文章！](https://mp.weixin.qq.com/s/a_LXNop3aqFPePLrEWg8sA)
+
  [Redis分布式锁 ](https://blog.piaoruiqing.com/blog/2019/05/19/redis%e5%88%86%e5%b8%83%e5%bc%8f%e9%94%81/) :star::star::star:
 
-[《吊打面试官》系列- Redis](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis) :star::star::star::star:
+【[《吊打面试官》系列- Redis](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)】 :star::star::star::star::star:
 
 [Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :star::star::star::star::star:
 
