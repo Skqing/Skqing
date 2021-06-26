@@ -113,12 +113,10 @@
 ### [伴鱼技术团队](https://tech.ipalfish.com/blog/)
 
 > 伴鱼技术团队[9] 主要分享服务治理、全链路追踪与压测、分布式架构设计等领域的知识。
->
 
 ### [字节跳动技术团队](https://juejin.cn/user/1838039172387262/posts?sort=popular)
 
 > 主要分享前端、APP 端、后端相关的一些文章。
->
 
 ### [滴滴技术](https://www.jianshu.com/u/72c4540b2587)
 
@@ -133,6 +131,12 @@
 参考文章：[坦白帖！敖丙订阅了哪些技术团队的博客？](https://mp.weixin.qq.com/s/DkYJO_Hn1G_S6zeEvl-Zsw)
 
 ------
+
+
+### 其他博客
+
+#### [猴子007](https://monkeysayhi.github.io/)
+> 线程、锁和高并发方面的文章以及一些读源码的文章，质量较高
 
 
 
