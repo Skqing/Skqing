@@ -2,7 +2,9 @@
 
 ### MySQL
 
-* [一口气搞懂 MySQL 索引所有知识点](https://mp.weixin.qq.com/s/eeTEmJDEe-QXHNZRkVvVbg)
+* [一口气搞懂 MySQL 索引所有知识点](https://mp.weixin.qq.com/s/eeTEmJDEe-QXHNZRkVvVbg) :star::star::star:
+
+* [浅谈MySQL的B树索引与索引优化](https://monkeysayhi.github.io/2018/03/06/%E6%B5%85%E8%B0%88MySQL%E7%9A%84B%E6%A0%91%E7%B4%A2%E5%BC%95%E4%B8%8E%E7%B4%A2%E5%BC%95%E4%BC%98%E5%8C%96/) :star::star:
 
 * [一文了解InnoDB事务锁](https://mp.weixin.qq.com/s/3S81368MMAlLVzrL-4RIUQ)
 
