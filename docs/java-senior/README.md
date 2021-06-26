@@ -63,3 +63,4 @@
 #### 算法
 
 * [深入剖析共识性算法 Raft](https://my.oschina.net/vivotech/blog/5023558) :star::star::star::star::star:
+* [时间复杂度：O(1)、O(n)、O(n²)、O(nlogn)等是什么意思，白话文解释专业术语](https://blog.csdn.net/qq_27093465/article/details/70690749)
