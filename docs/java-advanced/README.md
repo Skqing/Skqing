@@ -30,6 +30,9 @@
 [Exception经验之谈，万万没想到被很多团队采纳！](https://mp.weixin.qq.com/s/lb8Bii3__SPKV-DKi6n6dg)
 
 
+#### 优化相关
+[源码|String拼接操作”+”的优化？](https://monkeysayhi.github.io/2017/09/23/%E6%BA%90%E7%A0%81%7CString%E6%8B%BC%E6%8E%A5%E6%93%8D%E4%BD%9C%E2%80%9D-%E2%80%9D%E7%9A%84%E4%BC%98%E5%8C%96%EF%BC%9F/)
+
 Java开发中DTO、VO、PO之间的转换看下面几篇文章就够了
 
 * [Spring BeanUtils 和 Apache BeanUtils 你用哪个？](https://mp.weixin.qq.com/s/2M8KqdIjnRr51DDowAHW_w)
