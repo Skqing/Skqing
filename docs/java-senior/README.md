@@ -22,8 +22,11 @@
 * [“既生 ExecutorService, 何生 CompletionService？”](https://mp.weixin.qq.com/s/RXFj2J2IdYbCRSGZhW8Rrg)
 * [数据库连接池为什么要用 ThreadLocal 呢？](https://mp.weixin.qq.com/s?__biz=MzI4ODQ3NjE2OA==&mid=2247492604&idx=1&sn=05c1c360d5d0100c8bf50596568cea1a&chksm=ec3f7e9bdb48f78d10b8410686f2d0c2107357ceb20270c1606f291c95735b6e6e4ced95b8ba&scene=132#wechat_redirect)
 
+    线程池
+    * [线程池ThreadPoolExecutor总结](https://monkeysayhi.github.io/2018/11/08/%E7%BA%BF%E7%A8%8B%E6%B1%A0ThreadPoolExecutor%E6%80%BB%E7%BB%93/)
 
-* [Java并发知识点汇总](https://blog.csdn.net/codingtu/article/details/78061028)
+    高并发
+    * [Java并发知识点汇总](https://blog.csdn.net/codingtu/article/details/78061028)
 
 #### 锁
 * [一文看懂Java锁机制](https://mp.weixin.qq.com/s/dFh4WN1je8VmFdYX8Czhew)
