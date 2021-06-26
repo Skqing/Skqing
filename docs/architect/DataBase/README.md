@@ -15,6 +15,9 @@
 * [1.4 w字，25 张图让你彻底掌握分布式事务原理](https://mp.weixin.qq.com/s/ekHdP7JAPHuwsv5o7Rw7nQ)
 
 
+[事务的ACID和四个隔离级别](https://monkeysayhi.github.io/2016/11/26/%E4%BA%8B%E5%8A%A1%E7%9A%84ACID%E5%92%8C%E5%9B%9B%E4%B8%AA%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/)
+
+
 
 [正确理解Spring事务和数据库事务和锁](https://blog.csdn.net/codingtu/article/details/78046104)
 
