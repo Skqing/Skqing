@@ -16,3 +16,5 @@
 [软件架构设计分层模型和构图思考](https://mp.weixin.qq.com/s?__biz=MzAxODcyNjEzNQ==&mid=2247530507&idx=2&sn=734f4cbabb6468cce430be04d853e5a6&chksm=9bd3d593aca45c85415ac3e3ad512f5c0c89cb2844f197aa3cd69e742a3fa1f91407bf2dd506&scene=21#wechat_redirect)
 
 [高容错微服务架构设计思路](https://mp.weixin.qq.com/s/njn1ssdup9pExw8_0fK23Q)
+
+[分布式理论：CAP、BASE与ACID](https://monkeysayhi.github.io/2018/03/09/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA%EF%BC%9ACAP%E3%80%81BASE%E4%B8%8EACID/)
