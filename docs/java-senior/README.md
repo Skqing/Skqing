@@ -14,7 +14,7 @@
 
 #### 多线程
 
-* [细谈Java并发系列](./Concurrent/README.md)
+* 【[细谈Java并发系列](./Concurrent/README.md)】:star::star::star::star:
 
 * [我会手动创建线程，为什么让我使用线程池？](https://mp.weixin.qq.com/s/0lNXfEVLfZTEEaYQ4h4dgA)
 * [不会用Java Future，我怀疑你泡茶没我快](https://mp.weixin.qq.com/s/upLpuE55dfV5PmDAqKnDHQ)
