@@ -21,6 +21,10 @@
 
 ### 日志
 
+* [MarkerFilter的应用场景及使用示例](https://blog.csdn.net/sweetyi/article/details/104547002)
+
+* [自定义filter-ThreadFilter根据线程名过滤日志](https://blog.csdn.net/sweetyi/article/details/104547744)
+
 * [中小项目用ELK做日志？我准备玩点新花样](https://mp.weixin.qq.com/s/6SRVoY9OkSSZBt9aeDlPlg)
 
 * [Spring Boot 搭建 ELK，这才是正确看日志的方式！](https://mp.weixin.qq.com/s/jcNy8SxIreri91A6W50IoA)
