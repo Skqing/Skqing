@@ -11,6 +11,9 @@
 * [不重启JVM，替换掉已经加载的类](https://mp.weixin.qq.com/s/YtM93N3GmFncLBeaZo84-Q)
 * [配个GC日志呗，不然咋分析故障原因](https://mp.weixin.qq.com/s/bKyouiFGtVyY265j3K8EZA)
 * [Java服务启动慢，JVM预热的问题，我在k8s上改进了](https://mp.weixin.qq.com/s/wEkV_D_ic2zgY9QZqaPxIw)
+* [浅谈双亲委派模型](https://monkeysayhi.github.io/2017/12/20/%E6%B5%85%E8%B0%88%E5%8F%8C%E4%BA%B2%E5%A7%94%E6%B4%BE%E6%A8%A1%E5%9E%8B/)
+
+
 
 #### 多线程
 
