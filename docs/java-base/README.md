@@ -11,6 +11,8 @@
 * [Java中的final关键字](https://monkeysayhi.github.io/2018/11/06/Java%E4%B8%AD%E7%9A%84final%E5%85%B3%E9%94%AE%E5%AD%97/)
 
 
+[实现不可变类时如何禁止子类化？](https://monkeysayhi.github.io/2017/09/20/%E5%AE%9E%E7%8E%B0%E4%B8%8D%E5%8F%AF%E5%8F%98%E7%B1%BB%E6%97%B6%E5%A6%82%E4%BD%95%E7%A6%81%E6%AD%A2%E5%AD%90%E7%B1%BB%E5%8C%96%EF%BC%9F/)
+
 
 ### 其他
 
