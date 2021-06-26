@@ -14,6 +14,7 @@
 * [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/bVOSat47L0Hskfx9akAN6Q)
 
 
+[Java中的常见OOM及原因](https://monkeysayhi.github.io/2018/11/05/Java%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%A7%81OOM%E5%8F%8A%E5%8E%9F%E5%9B%A0/)
 
 [如何正确的创建和销毁Java对象](https://mp.weixin.qq.com/s/RdGig1oLaM2gT4l34DlSnA)
 
