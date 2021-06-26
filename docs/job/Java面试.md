@@ -34,12 +34,17 @@
 
 [MySQL连环问](https://mp.weixin.qq.com/s/AHO_pyZtTH71qoiRsvtRlw)
 
+[MySQL面试高频问题](https://mp.weixin.qq.com/s/o6tycEJYZV0Y79AkXfujRA)
+
 [杭州某大厂：MySQL 连环问(第二弹)](https://mp.weixin.qq.com/s/rZ8aH5DDH3zGmkVyfKT-zw)
 
 
 
 未整理系列：https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxNTE3NjQ3MA==&action=getalbum&album_id=1717644697302597643&scene=173&from_msgid=2247489199&from_itemidx=1&count=3&nolastread=1#wechat_redirect
 
+
+#### Redis
+[这5个常问的Redis面试题你答得出来吗？](https://mp.weixin.qq.com/s/UBfjV4GF1-aMf6wZObp8gQ)
 
 
 
@@ -57,3 +62,6 @@
 [面试问什么是无损降级？](https://mp.weixin.qq.com/s/5ZdmuCe2Ywjh1Na5OhQLjQ)
 
 [Kafka为什么要抛弃ZooKeeper？](https://mp.weixin.qq.com/s/geR3pDw_Yjhmu8KMsXQosg)
+
+
+[我的面试标准：第一能干活，第二Java基础要好，第三最好熟悉些分布式框架！](https://mp.weixin.qq.com/s/4DsbeWNT64S0LP7IYc9r1g) :star::star::star:
