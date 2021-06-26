@@ -47,6 +47,7 @@
 #### 内存
 
 * [说说什么是Java内存模型？](https://mp.weixin.qq.com/s/2WGe0XP-Upz0Pwd05ASTXQ)
+* [Java内存模型](https://monkeysayhi.github.io/2016/11/26/Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B/) :star::star::star:
 
 
 #### 数据结构
