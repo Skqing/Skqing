@@ -10,6 +10,8 @@
 
 [Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :star::star::star::star::star:
 
+[Redis压缩列表原理与应用分析](https://mp.weixin.qq.com/s/7aF3WryS2a9EdXuyffogLQ)
+
 ### 架构
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
 
