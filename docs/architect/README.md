@@ -18,3 +18,5 @@
 [高容错微服务架构设计思路](https://mp.weixin.qq.com/s/njn1ssdup9pExw8_0fK23Q)
 
 [分布式理论：CAP、BASE与ACID](https://monkeysayhi.github.io/2018/03/09/%E5%88%86%E5%B8%83%E5%BC%8F%E7%90%86%E8%AE%BA%EF%BC%9ACAP%E3%80%81BASE%E4%B8%8EACID/)
+
+[分布式系统的基本特性](https://monkeysayhi.github.io/2018/01/04/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%89%B9%E6%80%A7/)
