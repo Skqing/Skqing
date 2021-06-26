@@ -12,6 +12,7 @@
 #### 集合框架
 
 * [Java 集合框架看这一篇就够了](https://mp.weixin.qq.com/s/bVOSat47L0Hskfx9akAN6Q)
+* [从源码分析非线程安全集合类的不安全迭代器](https://monkeysayhi.github.io/2016/11/30/%E6%BA%90%E7%A0%81%7C%E4%BB%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E9%9D%9E%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E9%9B%86%E5%90%88%E7%B1%BB%E7%9A%84%E4%B8%8D%E5%AE%89%E5%85%A8%E8%BF%AD%E4%BB%A3%E5%99%A8/)
 
 
 [Java中的常见OOM及原因](https://monkeysayhi.github.io/2018/11/05/Java%E4%B8%AD%E7%9A%84%E5%B8%B8%E8%A7%81OOM%E5%8F%8A%E5%8E%9F%E5%9B%A0/)
