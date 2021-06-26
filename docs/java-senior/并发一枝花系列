@@ -1,5 +1,7 @@
 ### 【并发一枝花】系列
 
+* [CAS中的ABA问题](https://monkeysayhi.github.io/2018/01/02/CAS%E4%B8%AD%E7%9A%84ABA%E9%97%AE%E9%A2%98/)
+
 * [AQS的基本原理](https://monkeysayhi.github.io/2017/12/04/AQS%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86/)
 
 * [并发一枝花之CopyOnWriteArrayList](https://monkeysayhi.github.io/2017/10/24/%E6%BA%90%E7%A0%81%7C%E5%B9%B6%E5%8F%91%E4%B8%80%E6%9E%9D%E8%8A%B1%E4%B9%8BCopyOnWriteArrayList/)
@@ -10,10 +12,12 @@
 
 * [并发一枝花之ReentrantLock与AQS（1）：lock、unlock](https://monkeysayhi.github.io/2017/12/05/%E6%BA%90%E7%A0%81%7C%E5%B9%B6%E5%8F%91%E4%B8%80%E6%9E%9D%E8%8A%B1%E4%B9%8BReentrantLock%E4%B8%8EAQS%EF%BC%881%EF%BC%89%EF%BC%9Alock%E3%80%81unlock/)
 
+* [并发一枝花之ReentrantLock与AQS（2）：lockInterruptibly](https://monkeysayhi.github.io/2017/12/05/%E6%BA%90%E7%A0%81%7C%E5%B9%B6%E5%8F%91%E4%B8%80%E6%9E%9D%E8%8A%B1%E4%B9%8BReentrantLock%E4%B8%8EAQS%EF%BC%882%EF%BC%89%EF%BC%9AlockInterruptibly/)
+
+* [并发一枝花之ReentrantLock与AQS（3）：Condition](https://monkeysayhi.github.io/2017/12/07/%E6%BA%90%E7%A0%81%7C%E5%B9%B6%E5%8F%91%E4%B8%80%E6%9E%9D%E8%8A%B1%E4%B9%8BReentrantLock%E4%B8%8EAQS%EF%BC%883%EF%BC%89%EF%BC%9ACondition/)
 
 
-* []()
 
-* []()
+[一文解决内存屏障](https://monkeysayhi.github.io/2017/12/28/%E4%B8%80%E6%96%87%E8%A7%A3%E5%86%B3%E5%86%85%E5%AD%98%E5%B1%8F%E9%9A%9C/) :star::star::star::star:
 
-* []()
+[浅谈偏向锁、轻量级锁、重量级锁](https://monkeysayhi.github.io/2018/01/02/%E6%B5%85%E8%B0%88%E5%81%8F%E5%90%91%E9%94%81%E3%80%81%E8%BD%BB%E9%87%8F%E7%BA%A7%E9%94%81%E3%80%81%E9%87%8D%E9%87%8F%E7%BA%A7%E9%94%81/)
