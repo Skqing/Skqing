@@ -21,3 +21,5 @@
 
 ### 方案
 [数据库跟缓存的双写一致性](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650160009&idx=3&sn=d5c6257204431fd92a69dd45229c0120&chksm=f36826a8c41fafbe69bfcad2e7e100c94dd03479918759bb2b35417ef43362eb227acec48a83&scene=132#wechat_redirect)
+
+[高并发核心技术 - 幂等性 与 分布式锁](https://mp.weixin.qq.com/s/TkrSvCHJX8bL3pwSsWegHA)
