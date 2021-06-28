@@ -15,6 +15,11 @@
 
 [静态工厂方法的一些惯用名称？举例？](https://monkeysayhi.github.io/2017/09/20/%E9%9D%99%E6%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%AF%E7%94%A8%E5%90%8D%E7%A7%B0%EF%BC%9F%E4%B8%BE%E4%BE%8B%EF%BC%9F/)
 
+
+Spring
+[你绝对需要了解的Spring学习笔记](https://mp.weixin.qq.com/s/3k5-O8yChwDJcf3giPtE1w)
+
+
 ### 其他
 
 * [常用正则表达式最强整理（速查手册）](https://mp.weixin.qq.com/s/HXkzB_Hwf1xQ8rNbyrOC1w)
