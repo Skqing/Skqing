@@ -3,6 +3,49 @@
 
 ### 计算机基础知识
 
+
+**趣话计算机底层技术**
+1. [内核地址空间大冒险：系统调用](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484096&idx=1&sn=5a80ba82e71c2aeb07a571a7101734a2&chksm=e8730eb3df0487a5114dbf88abdf60ef2f7126384cd4bc2fdddaae2cf7ac0349d688385b6cc9&cur_album_id=1359683016842608641&scene=190#rd)
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[]()
+
+[太慢不能忍！CPU又拿硬盘和网卡开刀了！](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247485292&idx=1&sn=528260520a264ce655f9eede03738976&scene=21#wechat_redirect)
+
+
 #### Linux
 
 [Linux文件系统目录结构](https://monkeysayhi.github.io/2018/02/10/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/)
