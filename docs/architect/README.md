@@ -25,3 +25,7 @@
 ### 架构师
 
 [架构师究竟比高级开发厉害在哪？](https://mp.weixin.qq.com/s/rdu9sKRlKQGy2EWUU_ZyJQ) :star::star::star:
+
+#### 架构设计
+
+[淘宝服务端高并发分布式架构演进之路](https://mp.weixin.qq.com/s/DwUc4DejAXc9Qq0_A1eZHA)
