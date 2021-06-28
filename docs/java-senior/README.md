@@ -51,6 +51,9 @@
 
 * [一文看懂JUC之AQS机制](https://mp.weixin.qq.com/s/HEylBNG8-uIHrUwDFE8GYA)
 
+* [Java 读写锁 ReentrantReadWriteLock 源码分析](https://mp.weixin.qq.com/s/qI7ngEDbaeq3M6Qj_LSeBg)
+
+
 #### IO与网络
 
 * [Netty的线程模型可不是Reactor这么简单](https://mp.weixin.qq.com/s/kcSI0yQH3HxZt5KFU-M8_w)
