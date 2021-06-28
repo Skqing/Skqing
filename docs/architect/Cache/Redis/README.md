@@ -16,6 +16,14 @@
 
 [Redis压缩列表原理与应用分析](https://mp.weixin.qq.com/s/7aF3WryS2a9EdXuyffogLQ)
 
+**【趣话Redis】** :star::star:
+1. [我是Redis，MySQL大哥被我害惨了！]()
+
+2. [突然挂了！Redis缓存都在内存中，这下完了！](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247486926&idx=1&sn=58e99f81d6d6ee31c9a5c8f93122e108&chksm=e87301bddf0488abfb04313550991458c8d6390fc67bf05dbe289fb2a6eb4e3b5b8b280ff946&scene=178&cur_album_id=1512521859391635457#rd)
+
+3. [那天，我被拉入一个Redis群聊···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247487533&idx=1&sn=49b600ef7eac342dad1f5a8048361099&chksm=e8731c5edf049548f2e53729b0dc4851386655fecf998c9b39dab9111f335cdf9f3cf45501da&scene=178&cur_album_id=1512521859391635457#rd)
+
+
 ### 架构
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
 
