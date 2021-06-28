@@ -29,3 +29,5 @@
 #### 架构设计
 
 [淘宝服务端高并发分布式架构演进之路](https://mp.weixin.qq.com/s/DwUc4DejAXc9Qq0_A1eZHA)
+
+[系统架构之高可扩展系统设计与实现](https://mp.weixin.qq.com/s/8vFXvClcwxYAkDZ4kBErIA)
