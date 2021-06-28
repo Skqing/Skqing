@@ -21,6 +21,10 @@
 #### 多线程
 [史上最全多线程面试题 ](https://blog.csdn.net/xxyybs/article/details/102793030)
 
+#### 锁
+[Java 中的锁有哪些？](https://mp.weixin.qq.com/s/EzLwBZyWpoL59b9mHaXvOw)
+
+
 #### Spring
 
 [Spring 面试题（2021最新版）](https://mp.weixin.qq.com/s/DtlXaKFg_3-vLMDZgVEKKw)
