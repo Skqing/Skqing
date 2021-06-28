@@ -140,9 +140,13 @@
 
 
 
+#### 程序员的人生
+
+[程序员30 岁之后：如何实现质的突破？](https://mp.weixin.qq.com/s/Ns26dfAaWJMyL81NBx2m8Q) :star::star::star:
+
 #### 程序员的故事
 
-[程序猿生存指南](https://www.jianshu.com/u/2399ca214fbd)
+[程序猿生存指南](https://www.jianshu.com/u/2399ca214fbd) :star::star:
 
 
 
