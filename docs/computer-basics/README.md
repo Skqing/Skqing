@@ -3,6 +3,8 @@
 
 ### 计算机基础知识
 
+[我刚按下666，计算机发生了神奇的事情···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247489961&idx=1&sn=dfc5de59382a9169c6d303a2f68b0044&chksm=e87315dadf049ccc2cfcf50105fbf480d7cbf5c7eaf8b00b3c3edc9b221368b8c0c717c88aab&scene=178&cur_album_id=1408139825852776448#rd)
+
 [一口气看完45个寄存器，CPU核心技术大揭秘](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247487418&idx=1&sn=a0c21be06a636ed215fc8325f2e48927&chksm=e87303c9df048adfa5816e20cedfda957934d5e505f88b985b83cf413763e851cd152043773f&scene=178&cur_album_id=1408139825852776448#rd)
 
 **【趣话计算机底层技术】系列** :star::star::star:
