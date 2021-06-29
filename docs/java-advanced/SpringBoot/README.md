@@ -44,6 +44,7 @@
 
 ### 其他
 * [Spring中这些技巧真是太实用了](https://mp.weixin.qq.com/s/NTJXQnMd2JJKtOc8C0zVXg) :star::star::star::star::star:
+* [Spring Boot注解全梳理!](https://mp.weixin.qq.com/s/h3SwUARxxE8Oha-2qPS4YQ)
 * [我踩过的Spring Boot统一返回体中的坑](https://mp.weixin.qq.com/s/f3di1WA0ywei89-NLwJTSA)
 * [Spring Validation最佳实践及其实现原理，参数校验没那么简单！](https://mp.weixin.qq.com/s/0K8nTooGuKotFXUhze6ekA)
 * [Spring Boot 优雅停止服务的几种方法](https://mp.weixin.qq.com/s/0Hc-S44IjoUREGVJQfa0KQ)
