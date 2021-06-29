@@ -5,6 +5,7 @@
 * [JVM合集之开篇点题](https://mp.weixin.qq.com/s/LcJkvrMMZU0-RrZvQXp_hw)
 * [20张图助你了解JVM运行时数据区，你还觉得枯燥吗？](https://mp.weixin.qq.com/s/enKyxwDN09oEsYiEX8999w)
 * [看完这篇垃圾回收，和面试官扯皮没问题了](https://mp.weixin.qq.com/s/_AKQs-xXDHlk84HbwKUzOw)
+* [看过无数Java GC文章，这5个问题你也未必知道！](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484083&idx=1&sn=cf00f99e78a75a1fc6ba4b190f6111a0&chksm=e8730ec0df0487d6033a3e1e83227ff1a537c3793913b61261ef14be7d8b65f7dbcc142defd0&scene=178&cur_album_id=1408139825852776448#rd)
 * [解 Java 垃圾回收机制](https://mp.weixin.qq.com/s/ooj38UUBjOElAHnzPfhmsw)
 * [面试官问为什么新生代不用标记清除算法](https://mp.weixin.qq.com/s/qGL36Q1npiYKKTOG5SVv1A)
 * [JVM日志参数十全大补丸](https://mp.weixin.qq.com/s/XZFEgf1ZS7gNt7lku3TF4g)
