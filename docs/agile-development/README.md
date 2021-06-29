@@ -10,6 +10,8 @@
 
 [还在用Jenkins？看看这些替代方案，是否更适合你！](https://mp.weixin.qq.com/s/rS2SJOUec06gJAjVwXQyzw)
 
+### 自动构建
+
 ### 自动部署
 
 ### 自动发布
