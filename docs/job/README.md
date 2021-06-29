@@ -4,6 +4,9 @@
 
 [大家都在说去大厂，那我说说怎么去小厂拿到offer吧？](https://mp.weixin.qq.com/s/y7VL1j7ukoOVuuUU113Qww)
 
+[JVM面试重点：虚拟机类加载机制](https://mp.weixin.qq.com/s/PDwwwH2LciTda5xLQyKoGw)
+
+[面试官问：说说消息队列常用的几种场景？](https://github.com/Skqing/3kqing.github.com/issues/5)
 
 
 #### 大厂面试
@@ -24,3 +27,5 @@
 #### 行业职业
 
 [外包程序员与正式员工之间有什么区别？让我来告诉你](https://mp.weixin.qq.com/s/ccq13vWDl_3_frqlZtru0w)
+
+[最全整理，互联网大厂的薪资和职级一览](https://mp.weixin.qq.com/s/Wr5kSnNYHQSg5vQE9aHQqQ)
