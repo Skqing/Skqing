@@ -14,6 +14,7 @@
 
 #### 其他
 
+* [分布式系统调度，Zookeeper集群化管理](https://mp.weixin.qq.com/s/Yr4A95poVjlFsQ-Q0dF7hA)
 * [ZooKeeper技术原理](https://mp.weixin.qq.com/s/wwzmct_STT2VL0bsb-l_jg)
 * [Kafka为什么要抛弃ZooKeeper？](https://mp.weixin.qq.com/s/geR3pDw_Yjhmu8KMsXQosg)
 * [知其然而知其所以然，为什么Kafka在2.8版本中会“抛弃”Zookeeper](https://mp.weixin.qq.com/s/n-fDI2096Est0boyYZxrzw)
