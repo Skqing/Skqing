@@ -1,3 +1,6 @@
+#### 入门
+[那天，电脑里的两个家伙吵起来了···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247486272&idx=1&sn=99ee849f01408398d00457556309986e&chksm=e8730733df048e25953e81d96ff6d8b87bf28d7ede63f29515c507ab6a6da75d62497a44b115&scene=178&cur_album_id=1359688690091753473#rd)
+
 
 * [Java自学方法和路线，我万字推荐你这样学](https://mp.weixin.qq.com/s/JRhqoTTHE89J4NGGiLHGgw)
 
