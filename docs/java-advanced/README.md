@@ -47,8 +47,13 @@ Java开发中DTO、VO、PO之间的转换看下面几篇文章就够了
 
 * [BeanUtils、BeanCopier、Dozer、Orika 哪个性能最强？](https://mp.weixin.qq.com/s/aCWkUiE1-h5mtDrqEiPKHQ) :star::star:
 
+#### 软件设计
+[Java进阶专题(一) 软件架构设计原则（上）](https://mp.weixin.qq.com/s/ikhl2XfPnsQ7bVUko--VCA)
 
-### Java性能诊断工具
+[Java进阶专题(二) 软件架构设计原则（下）](https://mp.weixin.qq.com/s/9Y0C0XkdIPb2ALJnQoyBoQ)
+
+
+#### Java性能诊断工具
 Profiler
 Arthas
 
