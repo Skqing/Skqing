@@ -26,6 +26,8 @@
 
 [老夫整理的1000行MySQL学习笔记传授有缘人](https://mp.weixin.qq.com/s/gWTG81y1DjIyJZ0i886dtg): star::star::star::star:
 
+### SQL优化
+[千万不要用这些 SQL 语法，都是错的！](https://mp.weixin.qq.com/s/mg7VFmbxy_SKhj84op0FZQ) :star::star:
 
 ### 扩展工具
 
