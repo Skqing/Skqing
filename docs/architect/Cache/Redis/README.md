@@ -8,13 +8,27 @@
 
 [如果你项目中引入了Redis，那你不应该错过这篇文章！](https://mp.weixin.qq.com/s/a_LXNop3aqFPePLrEWg8sA)
 
- [Redis分布式锁 ](https://blog.piaoruiqing.com/blog/2019/05/19/redis%e5%88%86%e5%b8%83%e5%bc%8f%e9%94%81/) :star::star::star:
+
 
 【[《吊打面试官》系列- Redis](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)】 :star::star::star::star::star:
 
-[Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :star::star::star::star::star:
+
 
 [Redis压缩列表原理与应用分析](https://mp.weixin.qq.com/s/7aF3WryS2a9EdXuyffogLQ)
+
+#### 分布式锁
+[Redis分布式锁到底安全吗？](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ) :star::star::star::star::star:
+
+[Redis分布式锁 ](https://blog.piaoruiqing.com/blog/2019/05/19/redis%e5%88%86%e5%b8%83%e5%bc%8f%e9%94%81/) :star::star::star:
+
+[高并发核心技术 - 幂等性 与 分布式锁](https://mp.weixin.qq.com/s/TkrSvCHJX8bL3pwSsWegHA)
+
+#### 集群容灾与自动扩容
+
+[Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
+
+#### Redis监控
+
 
 **【趣话Redis】** :star::star:
 1. [我是Redis，MySQL大哥被我害惨了！]()
@@ -26,10 +40,11 @@
 4. [我拍了拍Redis，被移出了群聊···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247488746&idx=1&sn=2c1cbd64de9d09101377ebd64464158a&chksm=e8731899df04918f9ab2eb1ce0109de9e91d74622bf015cd4b4dbba41f0325ee7884ae55ccf5&scene=178&cur_album_id=1359688690091753473#rd)
 
 
-### 架构
-[Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
-
 ### 方案
 [数据库跟缓存的双写一致性](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650160009&idx=3&sn=d5c6257204431fd92a69dd45229c0120&chksm=f36826a8c41fafbe69bfcad2e7e100c94dd03479918759bb2b35417ef43362eb227acec48a83&scene=132#wechat_redirect)
 
-[高并发核心技术 - 幂等性 与 分布式锁](https://mp.weixin.qq.com/s/TkrSvCHJX8bL3pwSsWegHA)
+
+
+
+
+
