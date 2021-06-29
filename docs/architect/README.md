@@ -34,3 +34,5 @@
 
 #### 基础知识
 [懂了！VMware/KVM/Docker原来是这么回事儿](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484819&idx=1&sn=871c0dfeaac9877604d6b16e2a2d2b56&chksm=e87309e0df0480f64d80f874b1852137900ca6ab8cf64c209851017e1ce798a9749a41781ecf&scene=178&cur_album_id=1408139825852776448#rd)
+
+[还不懂Docker？一个故事安排的明明白白！](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247487647&idx=1&sn=87275d2f356de79391afa13c137e9a86&chksm=e8731cecdf0495fa98d3c310b0d89023ac1603a4327d56eda2a173587edffbe99b39f93f523d&scene=178&cur_album_id=1359688690091753473#rd)
