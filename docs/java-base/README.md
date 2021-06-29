@@ -18,6 +18,10 @@
 
 [静态工厂方法的一些惯用名称？举例？](https://monkeysayhi.github.io/2017/09/20/%E9%9D%99%E6%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%AF%E7%94%A8%E5%90%8D%E7%A7%B0%EF%BC%9F%E4%B8%BE%E4%BE%8B%EF%BC%9F/)
 
+#### 网络
+[服务端返回 304 如何做到的？](https://mp.weixin.qq.com/s/MjaJ2VV1kkkUF21kYp10Qw)
+
+
 **【趣话编程技术系列】**
 
 [刚刚，我的几个对象吵起来了···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247488589&idx=1&sn=877028e83ab7f4e80a19392dd97be9ac&chksm=e873183edf049128bddbdbacd82e0a338a11100e396104e37223c2186ea5349e71cbc578b177&scene=178&cur_album_id=1359688690091753473#rd)
