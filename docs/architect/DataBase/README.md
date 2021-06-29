@@ -18,12 +18,14 @@
 [事务的ACID和四个隔离级别](https://monkeysayhi.github.io/2016/11/26/%E4%BA%8B%E5%8A%A1%E7%9A%84ACID%E5%92%8C%E5%9B%9B%E4%B8%AA%E9%9A%94%E7%A6%BB%E7%BA%A7%E5%88%AB/)
 
 
-
 [正确理解Spring事务和数据库事务和锁](https://blog.csdn.net/codingtu/article/details/78046104)
 
 [项目中常用的19条MySQL优化](https://segmentfault.com/a/1190000012155267)
 
 [MySQL的又一神器-锁，MySQL面试必备](https://segmentfault.com/a/1190000020762791)
+
+[老夫整理的1000行MySQL学习笔记传授有缘人](https://mp.weixin.qq.com/s/gWTG81y1DjIyJZ0i886dtg): star::star::star::star:
+
 
 ### 扩展工具
 
