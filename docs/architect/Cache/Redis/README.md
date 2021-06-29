@@ -23,6 +23,8 @@
 
 3. [那天，我被拉入一个Redis群聊···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247487533&idx=1&sn=49b600ef7eac342dad1f5a8048361099&chksm=e8731c5edf049548f2e53729b0dc4851386655fecf998c9b39dab9111f335cdf9f3cf45501da&scene=178&cur_album_id=1512521859391635457#rd)
 
+4. [我拍了拍Redis，被移出了群聊···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247488746&idx=1&sn=2c1cbd64de9d09101377ebd64464158a&chksm=e8731899df04918f9ab2eb1ce0109de9e91d74622bf015cd4b4dbba41f0325ee7884ae55ccf5&scene=178&cur_album_id=1359688690091753473#rd)
+
 
 ### 架构
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
