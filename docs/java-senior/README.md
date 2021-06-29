@@ -42,7 +42,9 @@
     * [从串行线程封闭到对象池、线程池](https://monkeysayhi.github.io/2017/10/26/%E6%BA%90%E7%A0%81%7C%E4%BB%8E%E4%B8%B2%E8%A1%8C%E7%BA%BF%E7%A8%8B%E5%B0%81%E9%97%AD%E5%88%B0%E5%AF%B9%E8%B1%A1%E6%B1%A0%E3%80%81%E7%BA%BF%E7%A8%8B%E6%B1%A0/)
 
     高并发
+    * [10大高性能开发宝石，我要消灭一半程序员！](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247486319&idx=1&sn=3d49360a9451916b277b2cba6fca7873&chksm=e873071cdf048e0a4f64c7445a9815e61d3b820098da6fda9e2a70d5038ed92a0e13cbfca04d&scene=178&cur_album_id=1408139825852776448#rd)
     * [Java并发知识点汇总](https://blog.csdn.net/codingtu/article/details/78061028)
+
 
     其他
     * [volatile关键字的作用、原理](https://monkeysayhi.github.io/2016/11/29/volatile%E5%85%B3%E9%94%AE%E5%AD%97%E7%9A%84%E4%BD%9C%E7%94%A8%E3%80%81%E5%8E%9F%E7%90%86/) :star::star::star::star::star:
