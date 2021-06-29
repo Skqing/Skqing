@@ -27,7 +27,7 @@
 
 [Redis 读写分离技术架构解析](https://mp.weixin.qq.com/s/3mSZaWt5Kar9_95fw17Fgw)
 
-#### Redis监控
+#### Redis监控与管理
 
 
 **【趣话Redis】** :star::star:
