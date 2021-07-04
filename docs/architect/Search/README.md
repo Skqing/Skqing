@@ -2,6 +2,12 @@
 
 ### Elasticsearch
 
+
+
+[原来 Elasticsearch 还可以这么理解](https://mp.weixin.qq.com/s/DRQt_r1ZqECO07IsJKClbA)
+
+
+
 #### 集群
 * [搜索引擎框架，ElasticSearch集群模式](https://mp.weixin.qq.com/s/Qgear9nCwXn8W98SHkXJZw)
 

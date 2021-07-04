@@ -4,6 +4,10 @@
 
 2. 架构师的工作是什么
 
+   [架构师的工作都干些什么？！想做架构师必看！](https://mp.weixin.qq.com/s/K83eXjT9LfWodO7mLCAQnQ)
+
+   [什么才是真正的架构设计？](https://mp.weixin.qq.com/s/fEuwbomgjsmuvtc37-djsw)
+
 3. 架构师有哪些要求
  * [架构师究竟比高级开发厉害在哪？](https://mp.weixin.qq.com/s/rdu9sKRlKQGy2EWUU_ZyJQ) :star::star::star:
 
@@ -25,7 +29,6 @@
   * [消息队列](docs/architect/MessageQueuing/README.md)
   * [日志](docs/architect/Log/README.md)
   * [分布式事物](docs/architect/DistributedTransaction/README.md)
-    
 3. 微服务治理
 
   * 自动发布（灰度、蓝绿、滚动）
@@ -93,6 +96,14 @@
 - [单点登录系统原理与实现](https://mp.weixin.qq.com/s/RcBMrjtCNOS58pNCEZJJyQ)
 
 - [分布式下的区域问题，让我们大战了300回合](https://mp.weixin.qq.com/s/N_r5O76oo0JLojrOuA0frg)
+
+
+
+
+
+
+
+
 
 
 

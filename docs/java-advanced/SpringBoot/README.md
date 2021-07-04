@@ -62,3 +62,5 @@
 * [让你的代码更加简练，springboot使用JSR303校验](https://mp.weixin.qq.com/s?__biz=MzUzMzQ2MDIyMA==&mid=2247483698&idx=1&sn=9a0e08dc13a828c1b3912247e2ebe07c&chksm=faa2e4a1cdd56db77f7c98bab54155dbec13db72552eb1450a712f886af26889a7ed7cddf426&scene=21#wechat_redirect)
 * [改造了以前写的数据脱敏插件，更好用了](https://mp.weixin.qq.com/s/C24CFwaqG9rhwVSMHiXhFA)
 * [Spring 中经典的9种设计模式](https://mp.weixin.qq.com/s/cy0J1hF0lYmOCoLtxDu8DQ)
+* [Spring Bean默认是单例的，高并发情况下，如何保证并发安全？](https://mp.weixin.qq.com/s/gID-ikGNdYY2IiNa7HK33w)
+* [教你用Java的方式创建一个自己的Tomcat容器](https://mp.weixin.qq.com/s/QVvwv__bqXhd7wqOIlzkpQ)

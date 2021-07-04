@@ -1,6 +1,12 @@
 ## 敏捷开发
 
 
+
+### 代码管理
+
+[Git 各指令的本质，真是通俗易懂啊！](https://mp.weixin.qq.com/s/MM7sQiFPh2vIuGvg1-813Q)
+
+
 * [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s/-YQsD6jJuxewFjQtyX16UA)
 * [常见代码重构技巧](https://mp.weixin.qq.com/s/MuSOSquod9NSjgTEoJs0xw)
 * [Git分支管理策略](http://www.ruanyifeng.com/blog/2012/07/git.html)

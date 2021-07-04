@@ -18,6 +18,7 @@
 * [ZooKeeper技术原理](https://mp.weixin.qq.com/s/wwzmct_STT2VL0bsb-l_jg)
 * [Kafka为什么要抛弃ZooKeeper？](https://mp.weixin.qq.com/s/geR3pDw_Yjhmu8KMsXQosg)
 * [知其然而知其所以然，为什么Kafka在2.8版本中会“抛弃”Zookeeper](https://mp.weixin.qq.com/s/n-fDI2096Est0boyYZxrzw)
+* [分布式协调神器 ZooKeeper 之整体概述](https://mp.weixin.qq.com/s/04DzKwi5FgFGQz0Xt8735g)
 
 
 
