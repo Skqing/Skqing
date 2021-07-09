@@ -12,6 +12,12 @@
 * [MyBatis-Plus 从入门到上手干事！](https://mp.weixin.qq.com/s/UORoin5zgBZ2vi0xLWCTfw)
 * [为了熟练掌握动态SQL你必须要知道Mybatis中的OGNL表达式](https://mp.weixin.qq.com/s/WbM92TEzckhyhMil2yt3HQ)
 
+### 切面拦截
+* [在Spring Boot 中实现通用Auth认证的几种方式](https://mp.weixin.qq.com/s/g7zei_YwmjeAuVyUR7EWgQ)
+
+### 事件异步
+* [Spring Boot 自定义事件及监听](https://mp.weixin.qq.com/s/ylmU2rT0JlnYJA9f1w065A)
+
 ### Spring Security
 
 * [Spring Security 实战干货：动态权限控制还能更加简单一些](https://mp.weixin.qq.com/s?__biz=MzUzMzQ2MDIyMA==&mid=2247489508&idx=1&sn=f98b9a36ea3614c7be0c7863e4f8897b&chksm=faa2f277cdd57b61e21a56dfec2e00bd53d6a3053058b05fcb0f6744e379bfa6805860eec461&scene=21#wechat_redirect)
@@ -44,6 +50,12 @@
 ### Swagger
 
 * [Swagger3就是比2简单粗暴](https://mp.weixin.qq.com/s/jPP5w1LHUrlqOe-laBTLQA)
+
+### 优化
+* [Spring Boot 这样优化，让你的项目飞起来！](https://mp.weixin.qq.com/s/dgzvsQzzEvLAEOiYqGljUw)
+
+### 安全
+* [https://mp.weixin.qq.com/s/caP4EOpBujPXnqkDeyvNUw](https://mp.weixin.qq.com/s/caP4EOpBujPXnqkDeyvNUw) :star::star:
 
 ### 其他
 * [Spring中这些技巧真是太实用了](https://mp.weixin.qq.com/s/NTJXQnMd2JJKtOc8C0zVXg) :star::star::star::star::star:
