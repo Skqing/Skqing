@@ -8,6 +8,7 @@
 * [源码分析RocketMQ多副本之Leader选主](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247484399&idx=1&sn=7fc8c42c8f3062ba83618c9d6577e95a&scene=21#wechat_redirect)
 * [性能调优篇：困扰我半年之久的RocketMQ timeout exception 终于被破解了](https://mp.weixin.qq.com/s/W4Dst8IPzDGPBB41cybAPg)
 * [RabbitMQ 七种队列模式应用场景案例分析（通俗易懂）](https://mp.weixin.qq.com/s/nY7t5hOLqufW0ixpc8OgiQ)
+* [RocketMQ中台化建设](https://mp.weixin.qq.com/s/k4phQMgFKBs05VgMaQiPNQ)
 
 
 
