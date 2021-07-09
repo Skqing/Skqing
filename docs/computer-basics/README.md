@@ -60,6 +60,8 @@
 
 [Linux文件系统目录结构](https://monkeysayhi.github.io/2018/02/10/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/)
 
+[漫画 | 一台Linux服务器最多能支撑多少个TCP连接？](https://mp.weixin.qq.com/s/LBEWcmyTCVpFalY4FwwPRg) :star::star:
+
 
 #### 计算机通信
 
