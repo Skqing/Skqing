@@ -64,6 +64,8 @@
 
 [最多能创建多少个TCP连接？](https://mp.weixin.qq.com/s/mGkf-9LZhhUgSIRBRqfRDw) :star::star:
 
+[我试了试用 SQL查 Linux日志，好用到飞起](https://mp.weixin.qq.com/s/cMf3GlXFxrgyuehAv7hnxQ)
+
 
 ### 计算机网络
 
