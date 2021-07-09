@@ -28,6 +28,15 @@
 
 [Mysql在大型网站的应用架构演变](https://mp.weixin.qq.com/s/WJf1WzoaiUrqcsWZlx8iYg)
 
+
+[四本书、一个专栏，揉成这篇MySQL（一）](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247489812&idx=1&sn=0bdab567b676d46fb68987075e53a263)
+
+[四本书、一个专栏，揉成这篇MySQL（二）](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247490114&idx=1&sn=f91d039e8b5ad867504244aec229effd)
+
+[关于MySQL的酸与MVCC和面试官小战三十回合](https://mp.weixin.qq.com/s?__biz=MzkxNTE3NjQ3MA==&mid=2247490249&idx=1&sn=4348983da767ff28982324acc1760ce5)
+
+
+
 （未整理）
 数据库集群
 读写分离
