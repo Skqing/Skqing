@@ -57,6 +57,10 @@
 
 * [Java 读写锁 ReentrantReadWriteLock 源码分析](https://mp.weixin.qq.com/s/qI7ngEDbaeq3M6Qj_LSeBg)
 
+* [图解Java中的那些锁](https://mp.weixin.qq.com/s/X_7KJXORH65wRMnrDIX0jQ) :star::star:
+
+
+
 
 #### IO与网络
 
@@ -68,6 +72,8 @@
 * [谈谈对不同I/O模型的理解 (阻塞/非阻塞IO，同步/异步IO)](https://my.oschina.net/u/4504531/blog/4718645)
 
 * [TCP/IP网络模型](https://mp.weixin.qq.com/s/-dCQjrJQjKbZRsPCBJhRwA)
+
+* [从操作系统层面分析Java IO演进之路](https://mp.weixin.qq.com/s/KgJFyEmZApF7l5UUJeWf8Q)
 
 #### 内存
 
