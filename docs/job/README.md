@@ -29,3 +29,5 @@
 [外包程序员与正式员工之间有什么区别？让我来告诉你](https://mp.weixin.qq.com/s/ccq13vWDl_3_frqlZtru0w)
 
 [最全整理，互联网大厂的薪资和职级一览](https://mp.weixin.qq.com/s/Wr5kSnNYHQSg5vQE9aHQqQ)
+
+[工作7年，我的10条经验总结](https://mp.weixin.qq.com/s/CSkI6OODNqWxPzgD5PVXXw)
