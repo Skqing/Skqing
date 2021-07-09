@@ -1,4 +1,8 @@
-#### 入门
+
+[程序员必备的思维能力-结构化思维](https://mp.weixin.qq.com/s/MN2rByHzsgkoc1Tybtrd7w)
+
+
+### 入门
 [那天，电脑里的两个家伙吵起来了···](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247486272&idx=1&sn=99ee849f01408398d00457556309986e&chksm=e8730733df048e25953e81d96ff6d8b87bf28d7ede63f29515c507ab6a6da75d62497a44b115&scene=178&cur_album_id=1359688690091753473#rd)
 
 
@@ -21,7 +25,7 @@
 [理清，五花八门的Java日志](https://mp.weixin.qq.com/s/5IV_i_NHGatdhV_XEfCeAQ)
 
 
-#### 网络
+### 网络
 [服务端返回 304 如何做到的？](https://mp.weixin.qq.com/s/MjaJ2VV1kkkUF21kYp10Qw)
 
 
