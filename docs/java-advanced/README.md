@@ -37,6 +37,7 @@
 [打个赌你可能不知道如何获取Java泛型的Class对象](https://mp.weixin.qq.com/s/w8cmbOQ3nK0MvvazuIfHQA)
 
 
+
 #### 优化相关
 [String拼接操作”+”的优化？](https://monkeysayhi.github.io/2017/09/23/%E6%BA%90%E7%A0%81%7CString%E6%8B%BC%E6%8E%A5%E6%93%8D%E4%BD%9C%E2%80%9D-%E2%80%9D%E7%9A%84%E4%BC%98%E5%8C%96%EF%BC%9F/)
 
@@ -58,3 +59,5 @@ Java开发中DTO、VO、PO之间的转换看下面几篇文章就够了
 Profiler
 Arthas
 
+#### 其他
+[Java必会的工具库，让你的代码量减少90%](https://mp.weixin.qq.com/s/yNEvMr1IFERHsRWWzg6ySQ)
