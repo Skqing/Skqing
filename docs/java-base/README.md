@@ -18,6 +18,9 @@
 
 [静态工厂方法的一些惯用名称？举例？](https://monkeysayhi.github.io/2017/09/20/%E9%9D%99%E6%80%81%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E7%9A%84%E4%B8%80%E4%BA%9B%E6%83%AF%E7%94%A8%E5%90%8D%E7%A7%B0%EF%BC%9F%E4%B8%BE%E4%BE%8B%EF%BC%9F/)
 
+[理清，五花八门的Java日志](https://mp.weixin.qq.com/s/5IV_i_NHGatdhV_XEfCeAQ)
+
+
 #### 网络
 [服务端返回 304 如何做到的？](https://mp.weixin.qq.com/s/MjaJ2VV1kkkUF21kYp10Qw)
 
