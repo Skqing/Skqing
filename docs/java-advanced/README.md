@@ -1,7 +1,5 @@
 
 
-* [一台Linux服务器最多能支撑多少个TCP连接？](https://mp.weixin.qq.com/s/LBEWcmyTCVpFalY4FwwPRg)
-
 #### 图解系列
 * [你管这破玩意儿叫网络](https://mp.weixin.qq.com/s/jiPMUk6zUdOY6eKxAjNDbQ)
 * [你管这破玩意儿叫TCP？](https://mp.weixin.qq.com/s/Uf42QEL6WUSHOwJ403FwOA)
@@ -34,6 +32,9 @@
 
 [Java常用异常整理](https://monkeysayhi.github.io/2017/10/04/Java%E5%B8%B8%E7%94%A8%E5%BC%82%E5%B8%B8%E6%95%B4%E7%90%86/)
 [Exception经验之谈，万万没想到被很多团队采纳！](https://mp.weixin.qq.com/s/lb8Bii3__SPKV-DKi6n6dg)
+
+#### 泛型
+[打个赌你可能不知道如何获取Java泛型的Class对象](https://mp.weixin.qq.com/s/w8cmbOQ3nK0MvvazuIfHQA)
 
 
 #### 优化相关
