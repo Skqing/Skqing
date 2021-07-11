@@ -48,6 +48,8 @@ binlog
 ### SQL优化
 [千万不要用这些 SQL 语法，都是错的！](https://mp.weixin.qq.com/s/mg7VFmbxy_SKhj84op0FZQ) :star::star:
 
+[慢SQL排查思路？就这。](https://mp.weixin.qq.com/s/3yki4dljbLMgnOVrsqbk8w) :star:
+
 [mysql数据库时间类型datetime、bigint、timestamp的查询效率比较](https://mp.weixin.qq.com/s/VfghmrTSIgXfe2nEhmvzGw)
 
 ### 扩展工具
