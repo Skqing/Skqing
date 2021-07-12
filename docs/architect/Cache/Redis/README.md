@@ -12,6 +12,20 @@
 
 【[《吊打面试官》系列- Redis](https://github.com/AobingJava/JavaFamily/tree/master/docs/redis)】 :star::star::star::star::star:
 
+【《码哥字节学Redis》系列】 :star::star::star::star::star:
+1. [Redis 核心篇：唯快不破的秘密](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487752&idx=1&sn=72a1725e1c86bb5e883dd8444e5bd6c4)
+2. []()
+3. []()
+4. []()
+5. []()
+6. []()
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()_
+
+
 
 
 [Redis压缩列表原理与应用分析](https://mp.weixin.qq.com/s/7aF3WryS2a9EdXuyffogLQ)
