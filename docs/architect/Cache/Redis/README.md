@@ -14,9 +14,9 @@
 
 【《码哥字节学Redis》系列】 :star::star::star::star::star:
 1. [Redis 核心篇：唯快不破的秘密](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487752&idx=1&sn=72a1725e1c86bb5e883dd8444e5bd6c4)
-2. []()
-3. []()
-4. []()
+2. [Redis 日志篇：无畏宕机快速恢复的杀手锏](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487758&idx=1&sn=beb5918bb61948b2920907f54510311f)
+3. [Redis 高可用篇：你管这叫主从架构数据同步原理？](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487769&idx=1&sn=3c975ea118d4e59f72df5beed58f4768)
+4. [Redis 6.X Sentinel 哨兵集群搭建](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487779&idx=1&sn=f73b37f815200bab38f88dfc2f8750e8)
 5. []()
 6. []()
 7. []()
