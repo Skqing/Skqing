@@ -17,7 +17,7 @@
 2. [Redis 日志篇：无畏宕机快速恢复的杀手锏](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487758&idx=1&sn=beb5918bb61948b2920907f54510311f)
 3. [Redis 高可用篇：你管这叫主从架构数据同步原理？](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487769&idx=1&sn=3c975ea118d4e59f72df5beed58f4768)
 4. [Redis 6.X Sentinel 哨兵集群搭建](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487779&idx=1&sn=f73b37f815200bab38f88dfc2f8750e8)
-5. []()
+5. [Redis 高可用篇：你管这叫 Sentinel 哨兵集群原理](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487780&idx=1&sn=9a0ea0971e661556c4c5e438ab1b081b)
 6. []()
 7. []()
 8. []()
