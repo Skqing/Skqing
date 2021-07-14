@@ -18,12 +18,12 @@
 3. [Redis 高可用篇：你管这叫主从架构数据同步原理？](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487769&idx=1&sn=3c975ea118d4e59f72df5beed58f4768)
 4. [Redis 6.X Sentinel 哨兵集群搭建](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487779&idx=1&sn=f73b37f815200bab38f88dfc2f8750e8)
 5. [Redis 高可用篇：你管这叫 Sentinel 哨兵集群原理](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487780&idx=1&sn=9a0ea0971e661556c4c5e438ab1b081b)
-6. []()
-7. []()
-8. []()
-9. []()
-10. []()
-11. []()_
+6. [Redis 6.X Cluster 集群搭建](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487781&idx=1&sn=82669ac399e97b017efced2795abafa5)
+7. [Redis 高可用篇：Cluster 集群能支撑的数据有多大？](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487789&idx=1&sn=7f8245f8b4e4a98aa0a717011f7b7e24)
+8. [Redis 实战篇：巧用 Bitmap 实现亿级海量数据统计](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487813&idx=1&sn=9b346ad34a3b8cf38a3f338e85804800)
+9. [Redis 实战篇：巧用数据类型实现亿级数据统计](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487824&idx=1&sn=672bea4d5b3a6f25baed9ce502b07f35)
+10. [Redis 面霸篇：从高频问题透视核心原理](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487999&idx=1&sn=c4c6b80d2d9592ae0a30d8b16b513bcd)
+11. [Redis 实战篇：通过 Geo 类型实现附近的人邂逅女神]()_
 
 
 
