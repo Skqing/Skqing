@@ -108,6 +108,9 @@
 [Tomcat 高并发之道原理拆解与性能调优](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487712&idx=1&sn=a77efe0871bf0c5d1dc9d0a3ae138d5e) :star::star::star:
 
 
+#### 编译
+[趁周末，来学点进阶知识：Java 动态编译](https://mp.weixin.qq.com/s/mZxLdemA4BTpO-l3yS4yAQ)
+
 
 #### 实战
 
