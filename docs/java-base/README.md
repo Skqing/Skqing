@@ -26,7 +26,8 @@
 
 
 ### 网络
-[服务端返回 304 如何做到的？](https://mp.weixin.qq.com/s/MjaJ2VV1kkkUF21kYp10Qw)
+* [听我讲完GET、POST原理，面试官给我倒了杯卡布奇诺](https://mp.weixin.qq.com/s/XwqEsfeOWY51EDn2KZlveA)
+* [服务端返回 304 如何做到的？](https://mp.weixin.qq.com/s/MjaJ2VV1kkkUF21kYp10Qw)
 
 
 **【趣话编程技术系列】**
