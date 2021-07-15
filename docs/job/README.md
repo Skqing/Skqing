@@ -26,6 +26,8 @@
 
 #### 行业职业
 
+[成为优秀程序员需要具备的15种编程技巧](https://mp.weixin.qq.com/s/YJfoJcTBXQrv_WaXFfmgLg)
+
 [外包程序员与正式员工之间有什么区别？让我来告诉你](https://mp.weixin.qq.com/s/ccq13vWDl_3_frqlZtru0w)
 
 [最全整理，互联网大厂的薪资和职级一览](https://mp.weixin.qq.com/s/Wr5kSnNYHQSg5vQE9aHQqQ)
