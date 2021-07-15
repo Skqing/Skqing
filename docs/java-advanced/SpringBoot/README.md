@@ -60,6 +60,7 @@
 ### 其他
 * [Spring中这些技巧真是太实用了](https://mp.weixin.qq.com/s/NTJXQnMd2JJKtOc8C0zVXg) :star::star::star::star::star:
 * [Spring Boot注解全梳理!](https://mp.weixin.qq.com/s/h3SwUARxxE8Oha-2qPS4YQ)
+
 * [我踩过的Spring Boot统一返回体中的坑](https://mp.weixin.qq.com/s/f3di1WA0ywei89-NLwJTSA)
 * [Spring Validation最佳实践及其实现原理，参数校验没那么简单！](https://mp.weixin.qq.com/s/0K8nTooGuKotFXUhze6ekA)
 * [Spring Boot 优雅停止服务的几种方法](https://mp.weixin.qq.com/s/0Hc-S44IjoUREGVJQfa0KQ)
@@ -76,3 +77,8 @@
 * [Spring 中经典的9种设计模式](https://mp.weixin.qq.com/s/cy0J1hF0lYmOCoLtxDu8DQ)
 * [Spring Bean默认是单例的，高并发情况下，如何保证并发安全？](https://mp.weixin.qq.com/s/gID-ikGNdYY2IiNa7HK33w)
 * [教你用Java的方式创建一个自己的Tomcat容器](https://mp.weixin.qq.com/s/QVvwv__bqXhd7wqOIlzkpQ)
+
+
+未整理
+
+* [使用Spring特性实现接口多实现类的动态调用](https://blog.csdn.net/a718515028/article/details/72457436) 这篇文章拷贝过来，增加跟slf4j的设计对比一下，这种设计方式应用很广泛 :star::star:
