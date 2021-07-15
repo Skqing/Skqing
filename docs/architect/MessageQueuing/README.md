@@ -34,3 +34,8 @@
 8. [关于Kafka消费者的这些参数你应该要知道？](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247486912&idx=1&sn=82ec628ccc7f9d0ac0e1186cc8279afa)
 9. [怒肝15天终于一举拿下Kafka的重平衡机制](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247486967&idx=1&sn=4c518411de7debc3b6b2233e6e5aae01)
 10. [一文读懂kafka消息拉取机制｜线程拉取模型](https://mp.weixin.qq.com/s?__biz=MzIzNzgyMjYxOQ==&mid=2247487004&idx=1&sn=a8356845c921a1830e832e6baa712d2f)
+
+**【Kafka】系列**
+1. [从面试角度一文学完 Kafka](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487730&idx=1&sn=c51de28679d92f9086f1b94e72a5cb62)
+2. [Kafka性能篇：为何Kafka这么"快"？](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487774&idx=1&sn=6c2b7ad317cfa4b196199d80797e54bd)
+3. [Kafka原理篇：图解kakfa架构原理](https://mp.weixin.qq.com/s?__biz=MzkzMDI1NjcyOQ==&mid=2247487783&idx=1&sn=f8a65d06fd1bb016eff9a86a2088ec2e)
