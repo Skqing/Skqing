@@ -59,5 +59,8 @@ Java开发中DTO、VO、PO之间的转换看下面几篇文章就够了
 Profiler
 Arthas
 
+#### 日志
+[最牛逼的日志框架，性能无敌，横扫所有对手！](https://mp.weixin.qq.com/s/LyLVQK7zSO4BG60huCjr2g) :star::star:
+
 #### 其他
 [Java必会的工具库，让你的代码量减少90%](https://mp.weixin.qq.com/s/yNEvMr1IFERHsRWWzg6ySQ)
