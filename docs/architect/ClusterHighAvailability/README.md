@@ -5,6 +5,10 @@
 
 [全网第一张源码分析全景图揭秘Nginx](https://mp.weixin.qq.com/s?__biz=MzIyNjMxOTY0NA==&mid=2247484078&idx=1&sn=c5749b6c51b1bce0a18ee5c36c414dd6&source=41#wechat_redirect) :star::star:
 
+[Nginx如何限流？](https://mp.weixin.qq.com/s/R6GajrvNphXfgKWDsFWzFw)
+
+
+
 
 ### ZooKeeper
 
