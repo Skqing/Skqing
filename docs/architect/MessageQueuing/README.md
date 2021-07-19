@@ -1,5 +1,6 @@
 ## 消息队列
 
+[MQ 消息中间件梳理](https://mp.weixin.qq.com/s/G7lCsBYJ_e2snBpdyp5PRA)
 
 ### RocketMQ
 
