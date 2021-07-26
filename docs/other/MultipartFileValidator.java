@@ -98,3 +98,4 @@ public class MultipartFileValidator implements ConstraintValidator<ValidFile, Mu
         }
         return true;
     }
+}
