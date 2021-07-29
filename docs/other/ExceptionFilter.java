@@ -38,6 +38,7 @@ import java.io.FileNotFoundException;
  * 2. 可实时改变日志等级
  * 3. 可对异常日志发出告警
  * 4. 回调网关日志根据业务分离
+ * 5. 更新接口从前端开始加上调用链标识traceId
  *
  *
  * 模块服务重构
