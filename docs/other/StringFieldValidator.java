@@ -10,43 +10,8 @@ import java.util.regex.Pattern;
 
 /**
  * 字符串验证器
- * @author wwx1065938
+ * @author Skqing
  * @since 2021/6/30
- * 项目结构：
- * -common-main-pom
- * -common-db-pom
- * -common-util
- * -common-spring
- * -member
- * -- client
- *     dto
- *     vo
- * -- db
- *     bean
- *     mapper
- *     service
- *      impl
- * -- main
- *     client.impl
- *     dto.converter
- *     service
- *      impl
- *     trans
- *      impl
- *     ...其他
- * 依赖关系
- * main依赖db和client
- * main依赖common-main-pom
- * db依赖common-db-pom
- * common-main-pom依赖common-util和common-spring
- * common-db-pom依赖common-util
- * common-util和common-spring都为公共模块，需要的时候添加，但common-util大部分情况为工具类提供静态方法或静态变量，不需要被spring维护。
- *      而common-spring中是需要被spring维护的，主要用于公共配置或者基于spring的一些基础组件工具。
- *
- * 系统架构图
- * 网络架构图
- * 程序结构图
- * 服务关系图
  */
 
 @Slf4j
