@@ -78,16 +78,6 @@ import java.util.regex.Pattern;
  * 自动部署
  *
  *
- * 研究课题
- * JDK8，JDK11，Drawong(阿里巴巴开源JDK)选择哪一个
- * 为什么选择jetCache 我
- * 对象拷贝用哪个 我
- * 流水线搭建 我+运维
- * 日志系统 我+运维
- * 用数据库时间now()还是用JVM时间new Data()或者是LocalDateTime.now()
- *
-
- *
  * 缓存架构
  * Redis使用一主两从三哨兵架构，当量超过100W以上时在考虑Cluster集群
  *
